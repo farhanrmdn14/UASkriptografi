@@ -1,0 +1,9 @@
+c:\users\ilham saputra\documents\visual studio 2015\Projects\TBBL AES Encriptor\TBBL AES Encriptor\bin\Debug\TBBL AES Encriptor.exe.config
+c:\users\ilham saputra\documents\visual studio 2015\Projects\TBBL AES Encriptor\TBBL AES Encriptor\bin\Debug\TBBL AES Encriptor.exe
+c:\users\ilham saputra\documents\visual studio 2015\Projects\TBBL AES Encriptor\TBBL AES Encriptor\bin\Debug\TBBL AES Encriptor.pdb
+c:\users\ilham saputra\documents\visual studio 2015\Projects\TBBL AES Encriptor\TBBL AES Encriptor\obj\Debug\TBBL AES Encriptor.csprojResolveAssemblyReference.cache
+c:\users\ilham saputra\documents\visual studio 2015\Projects\TBBL AES Encriptor\TBBL AES Encriptor\obj\Debug\TBBL_AES_Encriptor.Form1.resources
+c:\users\ilham saputra\documents\visual studio 2015\Projects\TBBL AES Encriptor\TBBL AES Encriptor\obj\Debug\TBBL_AES_Encriptor.Properties.Resources.resources
+c:\users\ilham saputra\documents\visual studio 2015\Projects\TBBL AES Encriptor\TBBL AES Encriptor\obj\Debug\TBBL AES Encriptor.csproj.GenerateResource.Cache
+c:\users\ilham saputra\documents\visual studio 2015\Projects\TBBL AES Encriptor\TBBL AES Encriptor\obj\Debug\TBBL AES Encriptor.exe
+c:\users\ilham saputra\documents\visual studio 2015\Projects\TBBL AES Encriptor\TBBL AES Encriptor\obj\Debug\TBBL AES Encriptor.pdb
